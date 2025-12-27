@@ -1,3 +1,5 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
+
 [![Artificial_Neuroplasticity_Header](./img/Gemini_Generated_Image_kpsd17kpsd17kpsd_cr.jpg)](./img/Gemini_Generated_Image_kpsd17kpsd17kpsd_cr.jpg)
 
 # Artificial_Neuroplasticity
