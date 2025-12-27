@@ -1,0 +1,19 @@
+NOTICE for Artificial_Neuroplasticity (aggregated third-party attributions)
+
+This project bundles or uses third-party components under their own licenses. The attribution notices below were copied from upstream NOTICE files and are preserved as required by the Apache License 2.0.
+
+----------------------------------------------------------------
+From: Hugging Face transformers (Apache-2.0)
+Source: https://github.com/huggingface/transformers
+
+----------------------------------------------------------------
+From: accelerate (Apache-2.0)
+Source: https://github.com/huggingface/accelerate
+
+----------------------------------------------------------------
+From: bitsandbytes 
+Source: https://github.com/facebookresearch/bitsandbytes
+
+----------------------------------------------------------------
+Artifical_Neuroplasticity attribution:
+Copyright (C) 2025 Frank Salerno
